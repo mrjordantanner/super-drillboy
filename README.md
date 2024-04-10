@@ -8,4 +8,5 @@
 
 #### This mobile game is slated for release on iOS, Android, and PC in 2024, but you can play a web-based demo version [HERE](https://jordantanner.itch.io/super-drillboy)
 
+![Super Drillboy Gameplay GIF](https://img.itch.zone/aW1nLzEzNzU3MzM3LmdpZg==/original/1Bokfv.gif)
 ![Screenshot of mobile game Super Drillboy](https://img.itch.zone/aW1nLzEzNzU3MjYyLnBuZw==/original/unkzgE.png)
